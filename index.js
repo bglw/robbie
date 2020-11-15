@@ -9,7 +9,11 @@ const ratings = {
 	"php": 0,
 	"vscode": 5,
 	"react": 5,
-	"gatsby": 5
+	"gatsby": 5,
+	"king hapi": 5,
+	"big iron": 5,
+	"dj cenacity": 5,
+	"country music": 0
 }
 
 /**

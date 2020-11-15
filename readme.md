@@ -9,4 +9,6 @@ import * as robbie from 'robbie';
 
 robbie.rate("beatles"); // 0
 robbie.rate("arnold"); // 5
+
+robbie.run(() => {console.log("Function")}); // Runs 10,100 times
 ```

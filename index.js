@@ -5,7 +5,10 @@ const ratings = {
 	"mexican food": 4,
 	"javascript": 4,
 	"typescript": 5,
-	"php": 0
+	"php": 0,
+	"vscode": 5,
+	"react": 5,
+	"gatsby": 5
 }
 
 export const rate = (item) => {

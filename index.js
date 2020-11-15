@@ -3,6 +3,7 @@ const ratings = {
 	"arnold": 5,
 	"muso": 1,
 	"mexican food": 4,
+	"multiple screens": 1,
 	"javascript": 4,
 	"typescript": 5,
 	"php": 0

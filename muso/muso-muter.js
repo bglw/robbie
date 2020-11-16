@@ -2,7 +2,7 @@ const WebSocket = require("ws");
 
 // WebSocket Client Endpoint in JavaScript
 
-var ws = new WebSocket("<websocket address (you know which webpage to get this from)>);
+var ws = new WebSocket("<websocket address (you know which webpage to get this from)>");
 
 // Event handler for the WebSocket connection opening
 ws.onopen = async (event) => {
